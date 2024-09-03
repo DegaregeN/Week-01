@@ -5,4 +5,9 @@ on the application of natural language processing (NLP) techniques to gauge mark
 The primary objective is to analyze the sentiment associated with news articles over time and
 explore the relationships between sentiment and various market factors.
 
+
+![alt text](image.png)
+
+Fig : Close price for a stock from the 1980s to 2025
+
 The details are presented in the notebook.
